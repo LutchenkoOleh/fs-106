@@ -180,12 +180,9 @@ img {
   color: #fff;
   margin-bottom: 32px;
   max-width: 484px;
+  margin-bottom: 48px;
 }
 
-.hero-buttons {
-  display: flex;
-  align-items: center;
-}
 
 .section-one-button {
   font-family: "Montserrat", sans-serif;
@@ -324,6 +321,7 @@ img {
   border-radius: 15px;
   padding: 28px 23px;
   width: calc((100% - 3 * 32px) / 4);
+  text-align: center;
 }
 
 .section-three-list-img {
